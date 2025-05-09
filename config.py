@@ -42,10 +42,10 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b
 
 #--------------------------------------------
 HELP_TXT = "<b><blockquote>ᴛʜɪs ɪs ᴀɴ ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ ᴡᴏʀᴋ ғᴏʀ @Anime_Harvest\n\n❏ ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs\n├/start : sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ\n├/about : ᴏᴜʀ Iɴғᴏʀᴍᴀᴛɪᴏɴ\n└/help : ʜᴇʟᴘ ʀᴇʟᴀᴛᴇᴅ ʙᴏᴛ\n\n sɪᴍᴘʟʏ ᴄʟɪᴄᴋ ᴏɴ ʟɪɴᴋ ᴀɴᴅ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴊᴏɪɴ ʙᴏᴛʜ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ ᴛʜᴀᴛs ɪᴛ.....!\n\n ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ <a href=https://t.me/Aaru_2074>𝗔𝗮𝗿𝘂</a></blockquote></b>"
-ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/Aaru_2074>𝗔𝗮𝗿𝘂</a>\n◈ ᴍᴀɴɢᴀ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Manga_Campus>ᴍᴀɴɢᴀ ᴄᴀᴍᴘᴜs </a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Harvest>ᴍᴀɴɢᴀ ʜᴀʀᴠᴇsᴛ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Aaru_2074>𝗔𝗮𝗿𝘂</a></blockquote></b>"
+ABOUT_TXT = "<blockquote>◈ ᴍᴀɴɢᴀ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Manga_Campus>ᴍᴀɴɢᴀ ᴄᴀᴍᴘᴜs </a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Harvest>ᴀɴɪᴍᴇ ʜᴀʀᴠᴇsᴛ</a>\n◈ ᴄʜᴀᴛ ɢᴄ : <a href=https://t.me/Manga_Campus_Chat>ᴄʜᴀᴛ ɢᴄ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Aaru_2074>𝗔𝗮𝗿𝘂</a></blockquote>"
 #--------------------------------------------
 #--------------------------------------------
-START_MSG = os.environ.get("START_MESSAGE", "<b>ᴍᴏsʜɪ ᴍᴏsʜɪ sᴇɴᴘᴀɪ {first}\n\n<blockquote> ɪ'ᴍ ᴋɪʟʟᴜᴀ ᴢᴏʟᴅʏᴄᴋ ᴀ ғɪʟᴇsᴛᴏʀᴇ ʙᴏᴛ ᴏғ @ᴀɴɪᴍᴇ_ʜᴀʀᴠᴇsᴛ</blockquote></b>")
+START_MSG = os.environ.get("START_MESSAGE", "ᴍᴏsʜɪ ᴍᴏsʜɪ sᴇɴᴘᴀɪ {first}\n\n<b><blockquote> ɪ'ᴍ ᴋɪʟʟᴜᴀ ᴢᴏʟᴅʏᴄᴋ ᴀ ғɪʟᴇsᴛᴏʀᴇ ʙᴏᴛ ᴏғ @ᴀɴɪᴍᴇ_ʜᴀʀᴠᴇsᴛ</blockquote></b>")
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "sᴇɴᴘᴀɪ {first}\n\n<b>ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟs ᴀɴᴅ ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ʀᴇʟᴏᴀᴅ button ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ʀᴇǫᴜᴇꜱᴛᴇᴅ ꜰɪʟᴇ.</b>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
